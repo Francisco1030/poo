@@ -21,10 +21,8 @@ public class Retangulo extends FormaGeometrica {
 	}
 
 	public void exibirDados() {
-		System.out.println("Lado 1: " + getLado1());
+		super.exibirDados();
 		System.out.println("Lado 2: "+ getLado2());
-		System.out.println("Área: " + calcArea());
-		System.out.println("Perimetro: " + calcArea());
 		System.out.println("");
 	}
 

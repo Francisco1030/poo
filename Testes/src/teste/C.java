@@ -1,5 +1,5 @@
 package teste;
 
-public abstract class C extends B{
+public abstract class C {
 
 }

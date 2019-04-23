@@ -1,0 +1,17 @@
+package ted07;
+
+import java.util.Scanner;
+
+public class Mensagem {
+	
+	static Scanner scam = new Scanner(System.in);
+	
+	public static void exibirValores() {
+		System.out.println();
+	}
+	
+	public static double inputStringOutDouble(String mensagem) {
+		return 0.0;
+	}
+
+}

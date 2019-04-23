@@ -1,0 +1,15 @@
+package ted07;
+
+import java.util.Scanner;
+
+public class Mensagem {
+	
+	Scanner saca = new Scanner(System.in);
+	
+	public static void exibirValores() {
+		System.out.println();
+	}
+	
+	
+
+}

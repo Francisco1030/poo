@@ -1,0 +1,9 @@
+package ted07;
+
+public class UsaFuncionario {
+	public static void main(String[] args) {
+	
+		Funcionario.setValeRefeicao(100);
+		Mensagem.exibirValores();
+	}
+}

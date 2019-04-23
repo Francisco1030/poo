@@ -16,6 +16,10 @@ public class Mensagem {
 		System.out.println("========================================================");
 
 	}
+	
+	public static void inputString(String mensagem) {
+		System.out.println(mensagem);
+	}
 
 	public static double inputStringOutDouble(String mensagem) {
 

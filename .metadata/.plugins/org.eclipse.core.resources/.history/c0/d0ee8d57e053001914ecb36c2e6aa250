@@ -1,0 +1,11 @@
+package ted07;
+
+public class Mensagem {
+	
+	public static void exibirValores() {
+		System.out.println();
+	}
+	
+	
+
+}

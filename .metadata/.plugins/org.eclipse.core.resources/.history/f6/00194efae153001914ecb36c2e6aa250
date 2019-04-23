@@ -1,0 +1,12 @@
+package ted07;
+
+import java.util.ArrayList;
+
+public class UsaFuncionario {
+	public static void main(String[] args) {
+		ArrayList<String> mensagem = ArrayList<>();
+		
+		Mensagem.inputStringOutDouble("Digite o valor do vale refeição: ");
+		Mensagem.exibirValores();
+	}
+}
